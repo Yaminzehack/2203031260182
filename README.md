@@ -20,7 +20,6 @@ Users should be able to:
 
 ### Screenshot
 ![2025-06-23_13-31](https://github.com/user-attachments/assets/e422b65f-a848-4737-9f08-2dd140a5f7bf)
-![2025-06-23_13-31_1](https://github.com/user-attachments/assets/62cd1fbf-a0b6-4d9a-ba9b-57f502db3b2b)
 
 ## My process
 cd client
